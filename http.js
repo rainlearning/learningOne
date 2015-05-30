@@ -15,6 +15,6 @@ var waiter = function(req,res){
         //res.write('<h1>欢迎到包子铺</h1>');
 
     }
-   //res.end("hello");
+   //res.end("hello哦哦哦");
 }
 http.createServer(waiter).listen(7000);
