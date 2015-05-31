@@ -32,3 +32,10 @@
 -accept-language  语言
 
 -cache-control :缓存的规范
+
+
+npm  install -g supervisor  自动刷新
+
+npm config -ls
+   --registry 代理服务器
+   --prefix   全局路径
